@@ -14,7 +14,7 @@ Whether it's designing highly concurrent APIs or optimizing database bottlenecks
 
 My primary toolkit includes **TypeScript (Next.js)**, **Python (FastAPI)**, and occasionally **C# (.NET Ecosystem)**. Off the clock, I'm likely trying to expand my project scopes. Especially if I stumble into an challenging idea that fascinates me, you'd find me architecting my nights away.
 
-Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/), an AI-powered EdTech startup for neurodivergent students, where I help scale their core backend infrastructure. 
+Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/) with a corporate account, an AI-powered EdTech startup for neurodivergent students, where I help scale their core backend infrastructure. 
 
 ---
 
