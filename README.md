@@ -21,8 +21,9 @@ Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/), 
 ### ⚡ Out of Office
 
 * 🎮 I play an unhealthy amount of video games... which inevitably leads to a perpetually growing reading and gaming backlog.
-* ☕ I often fuel my late-night coding binges with entirely too much caffeine and a stubborn refusal to sleep. 
-* 💬 I'm always down to chat about the latest tech industry drama, new framework releases, or distributed systems!
+* ☕ I often fuel my late-night coding binges with entirely too much caffeine and a stubborn refusal to sleep.
+* 🎨 I do some art here and then during long down times.
+* 💬 I'm always down to chat about the latest tech industry drama, new framework releases, or distributed systems.
 * 😺 I like cats.
 
 ---
