@@ -12,7 +12,7 @@ I'm a backend-focused **Software Engineer** based in the Philippines, driven by 
 
 Whether it's designing highly concurrent APIs or optimizing database bottlenecks, I enjoy bringing order to chaotic codebases. Recently, I've been fascinated by integrating AI into robust applications.
 
-My primary toolkit includes **C# (.NET Ecosystem)**, **Python (FastAPI)**, and occasionally **TypeScript (Next.js)**. Off the clock, I'm likely experimenting with Docker deployments or agonizing over system architectures.
+My primary toolkit includes **C# (.NET Ecosystem)**, **Python (FastAPI)**, and occasionally **TypeScript (Next.js)**. Off the clock, I'm likely trying to expand my project scopes.
 
 Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/), an AI-powered EdTech startup for neurodivergent students, where I help scale their core backend infrastructure. 
 
@@ -27,6 +27,11 @@ Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/), 
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erudi787&theme=radical&hide_border=true" />
+</div>
+
+---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Erudi787&label=VISITS&color=000000&style=flat-square" alt="Profile visits" />
 </div>
