@@ -48,6 +48,7 @@ I believe in **clean architecture**, **thorough testing**, and **continuous lear
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" alt="Render" />
+  <img src="https://img.shields.io/badge/Vercel-61DAFB?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
 ---
