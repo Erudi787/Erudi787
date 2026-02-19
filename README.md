@@ -12,7 +12,7 @@ I'm a backend-focused **Software Engineer** based in the Philippines, driven by 
 
 Whether it's designing highly concurrent APIs or optimizing database bottlenecks, I enjoy bringing order to chaotic codebases. Recently, I've been fascinated by integrating AI into robust applications.
 
-My primary toolkit includes **C# (.NET Ecosystem)**, **Python (FastAPI)**, and occasionally **TypeScript (Next.js)**. Off the clock, I'm likely trying to expand my project scopes.
+My primary toolkit includes **TypeScript (Next.js)**, **Python (FastAPI)**, and occasionally **C# (.NET Ecosystem)**. Off the clock, I'm likely trying to expand my project scopes.
 
 Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/), an AI-powered EdTech startup for neurodivergent students, where I help scale their core backend infrastructure. 
 
