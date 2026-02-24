@@ -29,12 +29,13 @@ Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/) w
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erudi787&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erudi787&theme=radical&hide_border=true&cache_id=1" alt="GitHub Streak" />
 </div>
 
 ---
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Erudi787&label=VISITS&color=000000&style=flat-square" alt="Profile visits" />
-</div>
 
-### ✍️ Currently mass planning side-projects
+<div align="center"> <h3>✍️ Currently mass planning side-projects</h3></div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Erudi787&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile visits" />
+</div>
