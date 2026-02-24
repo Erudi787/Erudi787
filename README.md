@@ -36,3 +36,5 @@ Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/) w
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Erudi787&label=VISITS&color=000000&style=flat-square" alt="Profile visits" />
 </div>
+
+### ✍️ Currently mass planning side-projects
