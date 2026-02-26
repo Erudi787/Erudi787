@@ -2,7 +2,7 @@
   <h2>Hey there, I'm Elwison. 👋</h2>
   <p>Software Engineer | Backend Architect | Tech Enthusiast</p>
   
-  <a href="https://elwisondenampo.vercel.app/" target="_blank">Portfolio</a> • 
+  <a href="https://erudi.vercel.app/" target="_blank">Portfolio</a> • 
   <a href="https://www.linkedin.com/in/elwison-denampo" target="_blank">LinkedIn</a>
 </div>
 
