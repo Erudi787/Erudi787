@@ -3,7 +3,7 @@
   <p>Software Engineer | Backend Architect | Tech Enthusiast</p>
   
   <a href="https://erudi.vercel.app/" target="_blank">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/elwison-denampo" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/elwison-denampo-b2042b285/" target="_blank">LinkedIn</a>
 </div>
 
 <br/>
