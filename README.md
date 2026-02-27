@@ -29,7 +29,7 @@ Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/) w
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erudi787&theme=radical&hide_border=true&cache_id=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erudi787&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
