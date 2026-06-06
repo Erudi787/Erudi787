@@ -12,9 +12,11 @@ I'm a backend-focused **Software Engineer** based in the Philippines, driven by 
 
 Whether it's designing highly concurrent APIs or optimizing database bottlenecks, I enjoy bringing order to chaotic codebases. Recently, I've been fascinated by integrating AI into robust applications.
 
-My primary toolkit includes **TypeScript (Next.js)**, **Python (FastAPI)**, and occasionally **C# (.NET Ecosystem)**. Off the clock, I'm likely trying to expand my project scopes. Especially if I stumble into an challenging idea that fascinates me, you'd find me architecting my nights away.
+My primary toolkit includes **TypeScript (Next.js / NestJS)**, **Python (FastAPI)**, and occasionally **C# (.NET Ecosystem)**. Off the clock, I'm likely trying to expand my project scopes. Especially if I stumble into a challenging idea that fascinates me, you'd find me architecting my nights away.
 
-Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/) with a corporate account, an AI-powered EdTech startup for neurodivergent students, where I help scale their core backend infrastructure. 
+Most recently, I shipped **[LaChowOS](https://thelachow.com)** — a property management platform for culinary innovation facilities, built as a monorepo with a NestJS API, dual Next.js portals (admin + tenant), and 10+ third-party integrations (Stripe, DocuSign, SendGrid, AWS S3, ButterflyMX, QuickBooks, and more). Before that, I built the backend for **[FutureThink Edge](https://www.futurethinkedge.org/)**, an AI-powered EdTech platform for neurodivergent students, engineered for 3,000+ concurrent users on FastAPI, PostgreSQL, and Redis.
+
+I'm **between roles now and open to what's next** — preferably remote, preferably building systems that hold up when no one is watching. In the meantime I'm planning out a fresh slate of side projects.
 
 ---
 
@@ -22,7 +24,7 @@ Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/) w
 
 * 🎮 I play an unhealthy amount of video games... which inevitably leads to a perpetually growing reading and gaming backlog.
 * ☕ I often fuel my late-night coding binges with entirely too much caffeine and a stubborn refusal to sleep.
-* 🎨 I do some art here and then during long down times.
+* 🎨 I do some art here and there during long down times.
 * 💬 I'm always down to chat about the latest tech industry drama, new framework releases, or distributed systems.
 * 😺 I like cats.
 
@@ -33,8 +35,6 @@ Currently, I'm working on [FutureThink Edge](https://www.futurethinkedge.org/) w
 </div>
 
 ---
-
-<div align="center"> <h3>✍️ Currently mass planning side-projects</h3></div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Erudi787&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile visits" />
